@@ -1,4 +1,4 @@
-package main
+package lessons
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func standard() {
+func Standard() {
 
 	greeting := "hello there friends!"
 

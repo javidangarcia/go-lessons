@@ -1,8 +1,8 @@
-package main
+package lessons
 
 import "fmt"
 
-func loops() {
+func Loops() {
 
 	x := 0
 	for x < 5 {

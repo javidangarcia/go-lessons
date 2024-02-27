@@ -1,8 +1,8 @@
-package main
+package lessons
 
 import "fmt"
 
-func booleans() {
+func Booleans() {
 
 	age := 45
 

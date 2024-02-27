@@ -1,8 +1,8 @@
-package main
+package lessons
 
 import "fmt"
 
-func arrays() {
+func Arrays() {
 
 	// arrays
 	var ages = [3]int{20, 25, 30} // OR var ages [3]int = [3]int{20, 25, 30}

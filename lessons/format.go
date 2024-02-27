@@ -1,8 +1,8 @@
-package main
+package lessons
 
 import "fmt"
 
-func format() {
+func Format() {
 	age := 35
 	name := "shaun"
 

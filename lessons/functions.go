@@ -1,4 +1,4 @@
-package main
+package lessons
 
 import (
 	"fmt"
@@ -40,7 +40,7 @@ func getInitials(n string) (string, string) {
 	return initials[0], "_"
 }
 
-func functions() {
+func Functions() {
 
 	sayGreeting("mario")
 	sayGreeting("luigi")
