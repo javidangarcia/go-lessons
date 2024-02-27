@@ -14,5 +14,6 @@ func main() {
 	lessons.Maps()
 	lessons.Pointers()
 	lessons.Structs()
+	lessons.Input()
 	
 }
