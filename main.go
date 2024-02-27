@@ -12,5 +12,6 @@ func main() {
 	lessons.Booleans()
 	lessons.Functions()
 	lessons.Maps()
-
+	lessons.Pointers()
+	
 }
