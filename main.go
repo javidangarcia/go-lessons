@@ -13,5 +13,6 @@ func main() {
 	lessons.Functions()
 	lessons.Maps()
 	lessons.Pointers()
+	lessons.Structs()
 	
 }
