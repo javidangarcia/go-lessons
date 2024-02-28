@@ -15,5 +15,6 @@ func main() {
 	lessons.Pointers()
 	lessons.Structs()
 	lessons.Input()
+	lessons.Interfaces()
 	
 }
